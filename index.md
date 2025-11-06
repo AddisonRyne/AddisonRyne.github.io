@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Addison Ryne"
 image: /assets/images/header.jpg   # <-- this drives the page header
 ---
 
