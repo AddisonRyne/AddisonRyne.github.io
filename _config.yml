@@ -1,0 +1,33 @@
+# _config.yml
+title: "Addison Ryne"
+description: "Portfolio · CV · Research"
+url: "https://AddisonRyne.github.io"
+
+# Use the So Simple theme hosted on GitHub (pin to a version to avoid surprises)
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+# Required so GitHub Pages can fetch the remote theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Navigation (top menu)
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+
+# Optional: your social links for the footer/sidebar (add what you like)
+author:
+  name: "Addison Ryne"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:addison@example.com"
