@@ -1,17 +1,14 @@
-# _config.yml
 title: "Addison Ryne"
 description: "Portfolio · CV · Research"
 url: "https://AddisonRyne.github.io"
 
-# Use the So Simple theme hosted on GitHub (pin to a version to avoid surprises)
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
-# Required so GitHub Pages can fetch the remote theme
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# Navigation (top menu)
+# Top navigation links
 nav:
   - title: "Home"
     url: /
@@ -24,7 +21,6 @@ nav:
   - title: "Contact"
     url: /contact/
 
-# Optional: your social links for the footer/sidebar (add what you like)
 author:
   name: "Addison Ryne"
   links:
