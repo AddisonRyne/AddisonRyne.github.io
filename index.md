@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Addison Ryne"
-image: /assets/images/header.jpg   # <-- this drives the page header
+image: /assets/images/headerSmall.jpeg   # <-- this drives the page header
 ---
 
 ## About me
