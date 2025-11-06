@@ -16,10 +16,6 @@ I’m Addison, a Marine Science B.S. candidate studying how ecological processes
     <p>Active projects, papers, datasets, and code.</p>
   </div>
   <div class="archive__item">
-    <h3><a href="/projects/">Projects →</a></h3>
-    <p>Selected builds and open-source work.</p>
-  </div>
-  <div class="archive__item">
     <h3><a href="/contact/">Contact →</a></h3>
     <p>Email and other places to find me.</p>
   </div>
