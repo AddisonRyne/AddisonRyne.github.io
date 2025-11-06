@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-Below are areas I’ve worked in — click a tile to learn more or see examples.
-
 <style>
   /* responsive grid of square tiles */
   .research-grid {
@@ -50,7 +48,7 @@ Below are areas I’ve worked in — click a tile to learn more or see examples.
 
   <!-- Intertidal -->
   <a class="tile" href="/cv/">
-    <img class="tile__thumb" src="/assets/images/research/intertidal.jpg" alt="Rocky intertidal survey area with quadrat and notes" />
+  <img class="tile__thumb" src="/assets/images/intertidal.JPG" alt="Intertidal surveys" />
     <div class="tile__body">
       <h3 class="tile__title">Intertidal surveys</h3>
       <p class="tile__text">Black abalone habitat assessments, percent cover, species ID, long-term monitoring.</p>
@@ -59,7 +57,7 @@ Below are areas I’ve worked in — click a tile to learn more or see examples.
 
   <!-- Boat / Shipboard -->
   <a class="tile" href="/cv/">
-    <img class="tile__thumb" src="/assets/images/research/boat.jpg" alt="On research vessel during sampling operations" />
+  <img class="tile__thumb" src="/assets/images/boat.JPG" alt="Shipboard sampling" />
     <div class="tile__body">
       <h3 class="tile__title">Shipboard sampling</h3>
       <p class="tile__text">CTD casts, water collection, phytoplankton imaging, chlorophyll, and underway data.</p>
@@ -68,7 +66,7 @@ Below are areas I’ve worked in — click a tile to learn more or see examples.
 
   <!-- Presentations / Outreach -->
   <a class="tile" href="/cv/">
-    <img class="tile__thumb" src="/assets/images/research/presy.jog" alt="Giving a research presentation with slides" />
+<img class="tile__thumb" src="/assets/images/presentation.JPG" alt="Presentations" />
     <div class="tile__body">
       <h3 class="tile__title">Presentations & outreach</h3>
       <p class="tile__text">Conference talks, posters, science communication, and teaching assistance.</p>
@@ -77,7 +75,7 @@ Below are areas I’ve worked in — click a tile to learn more or see examples.
 
 <!-- Kelp / Data Analysis -->
   <a class="tile" href="#">
-    <img class="tile__thumb" src="/assets/images/research/kelp.jpg" alt="Kelp forest data visualization" />
+  <img class="tile__thumb" src="/assets/images/kelp.JPG" alt="Data analysis" />
     <div class="tile__body">
       <h3 class="tile__title">Data analysis & coding</h3>
       <p class="tile__text">R, MATLAB, and ArcGIS for ecological data processing, visualization, and modeling.</p>
@@ -86,7 +84,7 @@ Below are areas I’ve worked in — click a tile to learn more or see examples.
 
   <!-- Laser / Optics -->
   <a class="tile" href="#">
-    <img class="tile__thumb" src="/assets/images/research/laser.jpg" alt="Laser optics setup in laboratory" />
+  <img class="tile__thumb" src="/assets/images/laser.JPG" alt="Optics and imaging" />
     <div class="tile__body">
       <h3 class="tile__title">Optics & imaging</h3>
       <p class="tile__text">Laboratory experience with lasers, cameras, and optical systems for plankton imaging and calibration.</p>
@@ -95,7 +93,7 @@ Below are areas I’ve worked in — click a tile to learn more or see examples.
 
   <!-- Samples / Biological -->
   <a class="tile" href="#">
-    <img class="tile__thumb" src="/assets/images/research/samples.jpg" alt="Biological samples in lab trays" />
+  <img class="tile__thumb" src="/assets/images/samples.JPG" alt="Biological sampling" />
     <div class="tile__body">
       <h3 class="tile__title">Biological sampling</h3>
       <p class="tile__text">Collecting, preserving, and processing plankton, macroalgae, and invertebrate samples for analysis.</p>
