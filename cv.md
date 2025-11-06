@@ -4,7 +4,23 @@ title: "CV"
 permalink: /cv/
 ---
 
-[Download my CV (PDF)](/cv.pdf)
+<p><a class="btn" href="/cv.pdf" target="_blank" rel="noopener">Open in new tab</a></p>
 
-### Education
-- **Marine Science B.S.**, California State University, Monterey Bay — 2025
+<style>
+  /* make the embed fill the content area and most of the viewport */
+  .pdf-embed {
+    width: 100%;
+    height: 80vh;   /* adjust to taste (e.g., 90vh) */
+    border: none;
+  }
+  @media (max-width: 720px){
+    .pdf-embed { height: 70vh; }
+  }
+</style>
+
+<iframe class="pdf-embed" src="/cv.pdf#view=FitH" title="CV PDF">
+  <!-- Fallback for browsers that don't show inline PDFs -->
+  <p>Your browser can’t display PDFs inline. 
+    <a href="/cv.pdf">Download the PDF</a>.
+  </p>
+</iframe>
