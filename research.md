@@ -66,7 +66,7 @@ permalink: /research/
 
   <!-- Presentations / Outreach -->
   <a class="tile" href="/cv/">
-<img class="tile__thumb" src="/assets/images/presentation.JPG" alt="Presentations" />
+<img class="tile__thumb" src="/assets/images/presy.JPG" alt="Presentations" />
     <div class="tile__body">
       <h3 class="tile__title">Presentations & outreach</h3>
       <p class="tile__text">Conference talks, posters, science communication, and teaching assistance.</p>
