@@ -26,3 +26,10 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:addisonryne01@gmail.com"
+    - label: "Phone"
+      icon: "fas fa-phone"
+      url: "tel:8055551234"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/addisonryne"
+
