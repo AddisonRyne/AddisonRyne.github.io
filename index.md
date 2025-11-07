@@ -24,7 +24,7 @@ image: /assets/images/header.jpg   # <-- this drives the page header
 <img src="/assets/images/headshot.jpg" alt="Portrait of Addison Ryne"
      class="headshot" />
 
-I’m Addison, a tide pool enthusiast and Marine Science B.S. candidate studying how ecological processes shape marine communities. My work spans black abalone habitat surveys, phytoplankton imaging/analysis, and shipboard sampling. I analyze data in R, MATLAB, and ArcGIS, and I love translating field observations into clear visuals and stories. I’m exploring research/technician roles for Jan 2026 and planning a Ph.D. focused on intertidal ecology and community changes. </div>
+I’m Addison, a tide pool enthusiast and Marine Science B.S. candidate studying how ecological processes shape marine communities. My work spans black abalone habitat surveys, phytoplankton imaging/analysis, and shipboard sampling. I analyze data in R, MATLAB, and ArcGIS, and I love translating field observations into clear visuals and stories. I’m exploring research/technician roles for Jan 2026 and planning a Ph.D. focused on intertidal ecology and community changes.
 
 Other interests: Winning bar trivia across the country, thrifting for the perfect "When Harry Met Sally" sweater, completing my personal journey to 1,000 movie quotes.
 
