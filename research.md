@@ -99,5 +99,13 @@ permalink: /research/
       <p class="tile__text">Collecting, preserving, and processing plankton, macroalgae, and invertebrate samples for analysis.</p>
     </div>
   </a>
+  
+  <!-- Sources  -->
+  <a class="tile" href="/research/sources/">
+    <div class="tile__body" style="text-align:center; padding:40px 20px;">
+      <h3 class="tile__title">Sources</h3>
+      <p class="tile__text">References and datasets from my research and presentations.</p>
+    </div>
+  </a>
 
 </div>
