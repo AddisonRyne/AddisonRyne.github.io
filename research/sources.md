@@ -11,7 +11,6 @@ Below are the key papers referenced in my current work and presentations.
 ---
 
 ### *Microcystis* Project Literature
-- Doe, J., Ryne, A. (2024). *Intertidal community shifts in central California*. *Marine Ecology Progress Series*, 711, 15–29. [Link](https://doi.org/10.xxxx/xxxx)
 - Anderson, D. M., Glibert, P. M., and Burkholder, J. M. (2002). Harmful algal blooms and eutrophication: nutrient sources, composition, and consequences. *Estuaries* 25, 704-726. [Link](https://doi: 10.1007/bf02804901) 
 - Carmichael, W. W., and Boyer, G. L. (2016). Health impacts from cyanobacteria harmful algae blooms: implications for the north american great lakes. *Harmful Algae* 54, 194-212. [Link](https://doi: 10.1016/j.hal.2016.02.002)
 - Galloway, J. N., Townsend, A. R., Erisman, J. W., Bekunda, M., Cai, Z., Freney, J. R., Martinelli, L. A., Seitzinger, S. P., and Sutton, M. A. (2008). Transformation of the Nitrogen Cycle: Recent Trends, Questions, and Potential Solutions. *Science* 320(5878), 889-892. [Link](https://doi: 10.1126/science.1136674) 
