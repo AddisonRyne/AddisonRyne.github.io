@@ -19,7 +19,6 @@ Below are the key papers referenced in my current work and presentations.
 
 ### Images and media
 - Field and lab photos from Addison Ryne, Madison Bennett, and Olivia Ruchti 2023–2025
-Supplementary presentation images: 
 - Egan, D. (2023, July 9). *Lake Okeechobee’s Toxic Algae Blooms Threaten Florida and Could Get Worse.* https://www.nytimes.com/interactive/2023/07/09/climate/florida-lake-okeechobee-algae.html
 - Lad, A., Su, R. C., Breidenbach, J. D., Stemmer, P. M., Carruthers, N. J., Sanchez, N. K., Khalaf, F. K., Zhang, S., Kleinhenz, A. L., Dube, P., Mohammed, C. J., Westrick, J. A., Crawford, E. L., Palagama, D., Baliu-Rodriguez, D., Isailovic, D., Levison, B., Modyanov, N., Gohara, A. F., ... Kennedy, D. J. (2019). Chronic Low Dose Oral Exposure to Microcystin-LR Exacerbates Hepatic Injury in a Murine Model of Non-Alcoholic Fatty Liver Disease. *Toxins,* 11(9), 486. https://doi.org/10.3390/toxins11090486 
 - Observatory, P. A. P. (2022, May 7). Monitoring Zooplankton at the PAP-SO. *Porcupine Abyssal Plain Observatory.* https://papobservatory.wordpress.com/2022/05/07/monitoring-zooplankton-at-the-pap-so/
