@@ -6,4 +6,4 @@ permalink: /contact/
 
 Primary email: [addisonryne01@gmail.com](mailto:addisonryne01@gmail.com)<br />
 Phone (text preferred): [913-777-9152](tel:9137779152)  <br />
-LinkedIn: [www.linkedin.com/in/addison-ryne](www.linkedin.com/in/addison-ryne)<br />
+LinkedIn: [linkedin.com/in/addison-ryne](https://www.linkedin.com/in/addison-ryne)<br />
